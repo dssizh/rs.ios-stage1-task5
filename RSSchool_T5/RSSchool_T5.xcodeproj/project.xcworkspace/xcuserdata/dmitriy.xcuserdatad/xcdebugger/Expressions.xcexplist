@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[PNConverter converToPhoneNumberNextString:]:Converter.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[[string substringWithRange:NSMakeRange(0, 1)] isEqualToString:@&quot;+&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
